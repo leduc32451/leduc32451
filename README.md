@@ -1,7 +1,7 @@
-Hello there👋, my name is Lê Anh Đức
-I'm a 3rd-year student from University of Engineering anh Technology, Vietnam National University.
-First time I have come to Github just for finding some references for my projects. However, now I realize Github is a great environment is a great environment to train myself for the future career.
-My major is Computer Engineering, and I'm pursuing to become an Embedded Engineer. 
+Hello there👋, my name is Lê Anh Đức.<br>
+I'm a 3rd-year student from University of Engineering anh Technology, Vietnam National University.<br>
+First time I have come to Github just for finding some references for my projects. However, now I realize Github is a great environment is a great environment to train myself for the future career.<br>
+My major is Computer Engineering, and I'm pursuing to become an Embedded Engineer. <br>
 <!-- But I'm confused that what kind of Embedded Engineering for me.
 - More specific goals, easier progress🌱. 
 Embedded System Development:
